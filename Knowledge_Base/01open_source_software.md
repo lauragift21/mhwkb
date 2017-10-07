@@ -1,16 +1,12 @@
 [Mindfulness at the Computer](https://github.com/SunyataZero/mindfulness-at-the-computer)<br />
 na<br />
-"tags": ["self-care", "mindfullness", "breathing", "meditation"]<br />
+"tags": ["GPLv3", "python", "self-care", "mindfulness", "breathing", "notifier"]<br />
 -<br />
-[If Me](https://github.com/julianguyen/ifme)<br />
+[mental-health (NPR app)](https://github.com/nprapps/mental-health)<br />
 na<br />
-"tags": ["opensource", "non-profit", "mental Health", "doctors"]<br />
--<br />
-[mental-health](https://github.com/nprapps/mental-health)<br />
-na<br />
-"tags": ["depression", "anxiety", "ADHD", "bipolar-disorder"]<br />
+"tags": ["public_schools", "USA", "python", "nodejs", "bipolar", "MIT"]<br />
 -<br />
 [Consent2Share](https://github.com/bhits/consent2share)<br />
 na<br />
-"tags": ["over-arching", "mental health", "opensource", "doctors"]<br />
+"tags": ["GPLv3", "over-arching", "mental_health", "DS4P", "SAMHSA", "open_source"]<br />
 -<br />
